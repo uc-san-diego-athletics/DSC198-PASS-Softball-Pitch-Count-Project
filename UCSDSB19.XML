@@ -1,0 +1,1106 @@
+<bsgame source="TAS Baseball/Softball" version="5.17.00" generated="4/11/2021">
+  <venue gameid="UCSDSB19"
+           visid="UCSD" homeid="LBSU" visname="UC San Diego" homename="Long Beach State"
+           date="4/11/2021" location="Long Beach, Calif." stadium="LBSU Softball Cpx." duration="1:47" attend="75"
+           leaguegame="N" start="1:45 pm" dhgame="2" schedinn="7"
+           weather="Partly Cloudy, Breezy">
+    <umpires hp="Anthony Cooper" first="Darren Deckard" third="Lyle Dove"></umpires>
+    <notes>
+      <note text="Weather: Partly Cloudy, Breezy"></note>
+      <note text="Game: UCSDSB19"></note>
+    </notes>
+    <rules batters="9,9" usedh="Y"></rules>
+  </venue>
+  <team vh="V" id="UCSD" name="UC San Diego" code="112" record="7-12">
+    <linescore line="1,3,0,0,0" runs="4" hits="6" errs="0" lob="6">
+      <lineinn inn="1" score="1"></lineinn>
+      <lineinn inn="2" score="3"></lineinn>
+      <lineinn inn="3" score="0"></lineinn>
+      <lineinn inn="4" score="0"></lineinn>
+      <lineinn inn="5" score="0"></lineinn>
+    </linescore>
+    <starters>
+      <starter spot="1" name="Bosinger" uni="0" pos="lf"></starter>
+      <starter spot="2" name="Real" uni="14" pos="ss"></starter>
+      <starter spot="3" name="Harrington" uni="7" pos="1b"></starter>
+      <starter spot="4" name="Aguirre" uni="2" pos="3b"></starter>
+      <starter spot="5" name="Lavrov" uni="12" pos="2b"></starter>
+      <starter spot="6" name="Kazakoff" uni="1" pos="dp"></starter>
+      <starter spot="7" name="Pancino" uni="9" pos="rf"></starter>
+      <starter spot="8" name="Reynoso" uni="6" pos="c"></starter>
+      <starter spot="9" name="Renner" uni="10" pos="cf"></starter>
+      <starter spot="10" name="Simpson" uni="20" pos="p"></starter>
+    </starters>
+    <batords>
+      <batord spot="1" name="Bosinger" uni="0" pos="lf"></batord>
+      <batord spot="2" name="Real" uni="14" pos="2b"></batord>
+      <batord spot="3" name="Harrington" uni="7" pos="1b"></batord>
+      <batord spot="4" name="Aguirre" uni="2" pos="3b"></batord>
+      <batord spot="5" name="Tirado" uni="18" pos="dp"></batord>
+      <batord spot="6" name="Kazakoff" uni="1" pos="ss"></batord>
+      <batord spot="7" name="Lane" uni="11" pos="rf"></batord>
+      <batord spot="8" name="Reynoso" uni="6" pos="c"></batord>
+      <batord spot="9" name="Renner" uni="10" pos="cf"></batord>
+      <batord spot="10" name="Thompson" uni="24" pos="p"></batord>
+    </batords>
+    <totals>
+      <hitting ab="22" r="4" h="6" rbi="2" bb="2" so="5" hbp="1" kl="2" ground="5" fly="5"></hitting>
+      <fielding po="12" a="4" e="0" sba="3"></fielding>
+      <hsitsummary rcherr="1" ground="5" fly="5" w2outs="0,6" wrunners="4,14" wrbiops="2,7" vsleft="0,6" leadoff="1,5" rbi3rd="2,4" wloaded="0,1" advops="7,14" adv="4" lob="6"></hsitsummary>
+      <pitching ip="4.0" h="15" r="14" er="14" bb="2" so="0" sfa="1" bf="29" ab="26" double="5" triple="2" hr="2" fly="6" ground="6"></pitching>
+      <psitsummary fly="6" ground="6" leadoff="2,4" wrunners="11,17" vsleft="6,13" w2outs="6,10" pitches="103" strikes="0"></psitsummary>
+    </totals>
+    <player name="Bosinger, Keila" shortname="Bosinger" code="" uni="0" gp="1" gs="1" spot="1" pos="lf" atpos="lf" bats="R" throws="R" class="JR">
+      <hitting ab="2" r="2" h="2" rbi="0" hbp="1"></hitting>
+      <fielding po="1" a="0" e="0"></fielding>
+      <hsitsummary wrunners="1,1" wrbiops="1,1" leadoff="1,1" advops="1,1"></hsitsummary>
+      <hsituation context="bypos" pos="lf" ab="2" r="2" h="2" rbi="0" hbp="1"></hsituation>
+      <fsituation context="bypos" pos="lf" po="1" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="2" r="2" h="2" rbi="0"></hsituation>
+      <hsituation context="byspot" spot="1" ab="2" r="2" h="2" rbi="0" hbp="1"></hsituation>
+      <hsituation context="leadoff" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="1" rbi="0" hbp="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="White" ab="2" r="0" h="2" rbi="0"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="vsleft" ab="0" r="0" h="0" rbi="0" hbp="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Quinlan" ab="0" r="0" h="0" rbi="0" hbp="1"></hsituation>
+    </player>
+    <player name="Real, Sophia" shortname="Real" code="" uni="14" gp="1" gs="1" spot="2" pos="ss/2b" atpos="2b" bats="R" throws="R" class="SO">
+      <hitting ab="3" r="0" h="1" rbi="1" so="1" kl="1" ground="1"></hitting>
+      <fielding po="1" a="1" e="0"></fielding>
+      <hsitsummary ground="1" wrunners="1,3" wrbiops="0,1" vsleft="0,1" rbi3rd="1,1" wloaded="0,1" advops="2,3" adv="3"></hsitsummary>
+      <hsituation context="bypos" pos="ss" ab="3" r="0" h="1" rbi="1" so="1" kl="1" ground="1"></hsituation>
+      <fsituation context="bypos" pos="ss" po="0" a="1" e="0"></fsituation>
+      <hsituation context="vsright" ab="2" r="0" h="1" rbi="1" ground="1"></hsituation>
+      <hsituation context="byspot" spot="2" ab="3" r="0" h="1" rbi="1" so="1" kl="1" ground="1"></hsituation>
+      <hsituation context="runners" ab="3" r="0" h="1" rbi="1" so="1" kl="1" ground="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="White" ab="2" r="0" h="1" rbi="1" ground="1"></hsituation>
+      <hsituation context="loaded" ab="1" r="0" h="0" rbi="1" ground="1"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="0" rbi="1" ground="1"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" so="1" kl="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Quinlan" ab="1" r="0" h="0" rbi="0" so="1" kl="1"></hsituation>
+      <hsituation context="bypos" pos="2b" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="2b" po="1" a="0" e="0"></fsituation>
+    </player>
+    <player name="Harrington, Sherriah" shortname="Harrington" code="" uni="7" gp="1" gs="1" spot="3" pos="1b" atpos="1b" bats="R" throws="R" class="SR">
+      <hitting ab="3" r="0" h="1" rbi="1" so="1"></hitting>
+      <fielding po="5" a="0" e="0"></fielding>
+      <hsitsummary rcherr="1" w2outs="0,2" wrunners="1,3" wrbiops="1,2" vsleft="0,1" rbi3rd="1,1" advops="2,3" lob="1"></hsitsummary>
+      <hsituation context="bypos" pos="1b" ab="3" r="0" h="1" rbi="1" so="1"></hsituation>
+      <fsituation context="bypos" pos="1b" po="5" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="2" r="0" h="1" rbi="1"></hsituation>
+      <hsituation context="byspot" spot="3" ab="3" r="0" h="1" rbi="1" so="1"></hsituation>
+      <hsituation context="runners" ab="3" r="0" h="1" rbi="1" so="1"></hsituation>
+      <hsituation context="scorepos" ab="2" r="0" h="1" rbi="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="White" ab="2" r="0" h="1" rbi="1"></hsituation>
+      <hsituation context="runners2" ab="2" r="0" h="0" rbi="0" so="1"></hsituation>
+      <hsituation context="scorepos2" ab="1" r="0" h="0" rbi="0"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" so="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Quinlan" ab="1" r="0" h="0" rbi="0" so="1"></hsituation>
+    </player>
+    <player name="Aguirre, Bobbi" shortname="Aguirre" code="" uni="2" gp="1" gs="1" spot="4" pos="3b" atpos="3b" bats="R" throws="R" class="JR">
+      <hitting ab="3" r="0" h="0" rbi="0" ground="1" fly="2"></hitting>
+      <fielding po="1" a="1" e="0"></fielding>
+      <hsitsummary ground="1" fly="2" w2outs="0,1" wrunners="0,2" wrbiops="0,1" leadoff="0,1" rbi3rd="0,1" advops="1,2" adv="1" lob="1"></hsitsummary>
+      <hsituation context="bypos" pos="3b" ab="3" r="0" h="0" rbi="0" ground="1" fly="2"></hsituation>
+      <fsituation context="bypos" pos="3b" po="1" a="1" e="0"></fsituation>
+      <hsituation context="vsright" ab="3" r="0" h="0" rbi="0" ground="1" fly="2"></hsituation>
+      <hsituation context="byspot" spot="4" ab="3" r="0" h="0" rbi="0" ground="1" fly="2"></hsituation>
+      <hsituation context="runners" ab="2" r="0" h="0" rbi="0" ground="1" fly="1"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="White" ab="2" r="0" h="0" rbi="0" ground="1" fly="1"></hsituation>
+      <hsituation context="runners2" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="leadoff" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Fowler" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+    </player>
+    <player name="Lavrov, Isabel" shortname="Lavrov" code="" uni="12" gp="1" gs="1" spot="5" pos="2b" bats="R" throws="R" class="SR">
+      <hitting ab="2" r="0" h="0" rbi="0" so="1" fly="1"></hitting>
+      <fielding po="1" a="2" e="0"></fielding>
+      <hsitsummary fly="1" wrunners="0,1" wrbiops="0,1" vsleft="0,1" leadoff="0,1" rbi3rd="0,1" advops="0,1"></hsitsummary>
+      <hsituation context="bypos" pos="2b" ab="2" r="0" h="0" rbi="0" so="1" fly="1"></hsituation>
+      <fsituation context="bypos" pos="2b" po="1" a="2" e="0"></fsituation>
+      <hsituation context="vsright" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="byspot" spot="5" ab="2" r="0" h="0" rbi="0" so="1" fly="1"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="White" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" so="1"></hsituation>
+      <hsituation context="leadoff" ab="1" r="0" h="0" rbi="0" so="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" so="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Quinlan" ab="1" r="0" h="0" rbi="0" so="1"></hsituation>
+    </player>
+    <player name="Tirado, Vanessa" shortname="Tirado" code="" uni="18" gp="1" spot="5" sub="1" pos="dp" atpos="dp" bats="R" throws="R" class="SR">
+      <hitting ab="1" r="0" h="0" rbi="0" ground="1"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary ground="1"></hsitsummary>
+      <hsituation context="bypos" pos="dp" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <fsituation context="bypos" pos="dp" po="0" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="byspot" spot="5" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Fowler" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+    </player>
+    <player name="Kazakoff, Danica" shortname="Kazakoff" code="" uni="1" gp="1" gs="1" spot="6" pos="dp/ss" atpos="ss" bats="L" throws="R" class="SR">
+      <hitting ab="2" r="0" h="0" rbi="0" bb="1" ground="2"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary ground="2" w2outs="0,1" wrunners="0,1" wrbiops="0,1" vsleft="0,1" advops="0,1" lob="2"></hsitsummary>
+      <hsituation context="bypos" pos="dp" ab="2" r="0" h="0" rbi="0" ground="2"></hsituation>
+      <fsituation context="bypos" pos="dp" po="0" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="1" r="0" h="0" rbi="0" bb="1" ground="1"></hsituation>
+      <hsituation context="byspot" spot="6" ab="2" r="0" h="0" rbi="0" bb="1" ground="2"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="runners2" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="scorepos2" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="White" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" bb="1" ground="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Quinlan" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="bypos" pos="ss" ab="0" r="0" h="0" rbi="0" bb="1"></hsituation>
+      <fsituation context="bypos" pos="ss" po="0" a="0" e="0"></fsituation>
+      <hsituation context="vspitcher" pitcher="Fowler" ab="0" r="0" h="0" rbi="0" bb="1"></hsituation>
+    </player>
+    <player name="Pancino, Mikaila" shortname="Pancino" code="" uni="9" gp="1" gs="1" spot="7" pos="rf" bats="L" throws="R" class="SO">
+      <hitting ab="1" r="0" h="0" rbi="0" bb="1" so="1"></hitting>
+      <fielding po="1" a="0" e="0"></fielding>
+      <hsitsummary leadoff="0,1"></hsitsummary>
+      <hsituation context="bypos" pos="rf" ab="1" r="0" h="0" rbi="0" bb="1" so="1"></hsituation>
+      <fsituation context="bypos" pos="rf" po="1" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="1" r="0" h="0" rbi="0" so="1"></hsituation>
+      <hsituation context="byspot" spot="7" ab="1" r="0" h="0" rbi="0" bb="1" so="1"></hsituation>
+      <hsituation context="leadoff" ab="1" r="0" h="0" rbi="0" so="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" bb="1" so="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="White" ab="1" r="0" h="0" rbi="0" so="1"></hsituation>
+      <hsituation context="vsleft" ab="0" r="0" h="0" rbi="0" bb="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Quinlan" ab="0" r="0" h="0" rbi="0" bb="1"></hsituation>
+    </player>
+    <player name="Lane, Kaleigh" shortname="Lane" code="" uni="11" gp="1" spot="7" sub="1" pos="rf" atpos="rf" bats="R" throws="R" class="JR">
+      <hitting ab="1" r="0" h="0" rbi="0" fly="1"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary fly="1" w2outs="0,1" wrunners="0,1" advops="0,1" lob="1"></hsitsummary>
+      <hsituation context="bypos" pos="rf" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <fsituation context="bypos" pos="rf" po="0" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="byspot" spot="7" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="runners2" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Fowler" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+    </player>
+    <player name="Reynoso, Clarissa" shortname="Reynoso" code="" uni="6" gp="1" gs="1" spot="8" pos="c" atpos="c" bats="R" throws="R" class="JR">
+      <hitting ab="2" r="0" h="1" rbi="0" fly="1"></hitting>
+      <fielding po="1" a="0" e="0" sba="3"></fielding>
+      <hsitsummary fly="1" w2outs="0,1" wrunners="0,1" vsleft="0,1" advops="0,1" lob="1"></hsitsummary>
+      <hsituation context="bypos" pos="c" ab="2" r="0" h="1" rbi="0" fly="1"></hsituation>
+      <fsituation context="bypos" pos="c" po="1" a="0" e="0" sba="3"></fsituation>
+      <hsituation context="vsright" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="byspot" spot="8" ab="2" r="0" h="1" rbi="0" fly="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="vspitcher" pitcher="White" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="runners2" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Quinlan" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+    </player>
+    <player name="Melendez, Mariah" shortname="Melendez" code="" uni="13" gp="1" spot="8" sub="1" pos="pr" bats="R" throws="R" class="FR">
+      <hitting ab="0" r="1" h="0" rbi="0"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary></hsitsummary>
+      <hsituation context="bypos" pos="pr" ab="0" r="1" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="pr" po="0" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="0" r="1" h="0" rbi="0"></hsituation>
+      <hsituation context="byspot" spot="8" ab="0" r="1" h="0" rbi="0"></hsituation>
+    </player>
+    <player name="Renner, Kelley" shortname="Renner" code="" uni="10" gp="1" gs="1" spot="9" pos="cf" atpos="cf" bats="L" throws="R" class="SO">
+      <hitting ab="2" r="1" h="1" rbi="0" so="1" kl="1"></hitting>
+      <fielding po="1" a="0" e="0"></fielding>
+      <hsitsummary wrunners="1,1" vsleft="0,1" leadoff="0,1" advops="1,1"></hsitsummary>
+      <hsituation context="bypos" pos="cf" ab="2" r="1" h="1" rbi="0" so="1" kl="1"></hsituation>
+      <fsituation context="bypos" pos="cf" po="1" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="1" r="1" h="1" rbi="0"></hsituation>
+      <hsituation context="byspot" spot="9" ab="2" r="1" h="1" rbi="0" so="1" kl="1"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="vspitcher" pitcher="White" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" so="1" kl="1"></hsituation>
+      <hsituation context="leadoff" ab="1" r="0" h="0" rbi="0" so="1" kl="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" so="1" kl="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Quinlan" ab="1" r="0" h="0" rbi="0" so="1" kl="1"></hsituation>
+    </player>
+    <player name="Simpson, Kaia" shortname="Simpson" code="" uni="20" gp="1" gs="1" spot="10" pos="p" bats="R" throws="R" class="SO">
+      <hitting ab="0" r="0" h="0" rbi="0"></hitting>
+      <fielding po="0" a="0" e="0" sba="3"></fielding>
+      <hsitsummary></hsitsummary>
+      <pitching appear="1" loss="0-3" gs="1" ip="2.2" h="13" r="13" er="13" bb="2" so="0" sfa="1" bf="23" ab="20" double="3" triple="2" hr="2" pitches="85" strikes="54" fly="2" ground="6"></pitching>
+      <psitsummary fly="2" ground="6" leadoff="2,3" wrunners="9,14" vsleft="6,11" w2outs="4,6" pitches="85" strikes="54"></psitsummary>
+      <hsituation context="bypos" pos="p" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="p" po="0" a="0" e="0" sba="3"></fsituation>
+      <psituation context="byinn" inn="1" ip="1.0" h="5" r="4" er="4" bb="0" so="0" bf="8" ab="7" double="1" hr="1" fly="2" ground="1"></psituation>
+      <psituation context="vsleft" ip="1.2" h="6" r="0" er="0" bb="0" so="0" bf="11" ab="11" triple="2" fly="1" ground="4"></psituation>
+      <psituation context="leadoff" ip="0.1" h="1" r="0" er="0" bb="1" so="0" bf="3" ab="2" double="1" ground="1"></psituation>
+      <psituation context="empty" ip="0.2" h="4" r="0" er="0" bb="1" so="0" bf="7" ab="6" double="1" triple="1" ground="2"></psituation>
+      <psituation context="vsright" ip="1.0" h="7" r="0" er="0" bb="2" so="0" bf="12" ab="9" double="3" hr="2" fly="1" ground="2"></psituation>
+      <psituation context="runners" ip="2.0" h="9" r="0" er="0" bb="1" so="0" bf="16" ab="14" double="2" triple="1" hr="2" fly="2" ground="4"></psituation>
+      <psituation context="scorepos" ip="1.2" h="7" r="0" er="0" bb="1" so="0" bf="13" ab="11" double="1" triple="1" hr="2" fly="2" ground="3"></psituation>
+      <psituation context="runners2" ip="0.2" h="3" r="0" er="0" bb="1" so="0" bf="6" ab="5" triple="1" fly="1" ground="1"></psituation>
+      <psituation context="scorepos2" ip="0.2" h="2" r="0" er="0" bb="1" so="0" bf="5" ab="4" triple="1" fly="1" ground="1"></psituation>
+      <psituation context="byinn" inn="2" ip="1.0" h="4" r="3" er="3" bb="0" so="0" bf="7" ab="7" double="1" triple="1" hr="1" ground="3"></psituation>
+      <psituation context="byinn" inn="3" ip="0.2" h="4" r="6" er="6" bb="2" so="0" bf="8" ab="6" double="1" triple="1" ground="2"></psituation>
+      <psituation context="loaded" ip="0.0" h="1" r="0" er="0" bb="0" so="0" bf="1" ab="1" triple="1"></psituation>
+    </player>
+    <player name="Thompson, Shelby" shortname="Thompson" code="" uni="24" gp="1" spot="10" sub="1" pos="p" atpos="p" bats="L" throws="L" class="FR">
+      <hitting ab="0" r="0" h="0" rbi="0"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary></hsitsummary>
+      <pitching appear="2" ip="1.1" h="2" r="1" er="1" bb="0" so="0" bf="6" ab="6" double="2" pitches="18" strikes="14" fly="4" inheritr="1" inherits="1"></pitching>
+      <psitsummary fly="4" leadoff="0,1" wrunners="2,3" vsleft="0,2" w2outs="2,4" pitches="18" strikes="14"></psitsummary>
+      <hsituation context="bypos" pos="p" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="p" po="0" a="0" e="0"></fsituation>
+      <psituation context="byinn" inn="3" ip="0.1" h="2" r="1" er="1" bb="0" so="0" bf="3" ab="3" double="2" fly="1"></psituation>
+      <psituation context="vsright" ip="0.2" h="2" r="0" er="0" bb="0" so="0" bf="4" ab="4" double="2" fly="2"></psituation>
+      <psituation context="runners" ip="0.1" h="2" r="0" er="0" bb="0" so="0" bf="3" ab="3" double="2" fly="1"></psituation>
+      <psituation context="runners2" ip="0.1" h="2" r="0" er="0" bb="0" so="0" bf="3" ab="3" double="2" fly="1"></psituation>
+      <psituation context="scorepos" ip="0.1" h="2" r="0" er="0" bb="0" so="0" bf="3" ab="3" double="2" fly="1"></psituation>
+      <psituation context="scorepos2" ip="0.1" h="2" r="0" er="0" bb="0" so="0" bf="3" ab="3" double="2" fly="1"></psituation>
+      <psituation context="vsleft" ip="0.2" h="0" r="0" er="0" bb="0" so="0" bf="2" ab="2" fly="2"></psituation>
+      <psituation context="byinn" inn="4" ip="1.0" h="0" r="0" er="0" bb="0" so="0" bf="3" ab="3" fly="3"></psituation>
+      <psituation context="leadoff" ip="0.1" h="0" r="0" er="0" bb="0" so="0" bf="1" ab="1" fly="1"></psituation>
+      <psituation context="empty" ip="1.0" h="0" r="0" er="0" bb="0" so="0" bf="3" ab="3" fly="3"></psituation>
+    </player>
+    <player name="Dragoo, Graci" shortname="Dragoo" code="" uni="5" gp="0" spot="0" pos="" bats="R" throws="R" class="SO">
+    </player>
+    <player name="Kyro, Kinley" shortname="Kyro" code="" uni="21" gp="0" spot="0" pos="" bats="R" throws="R" class="JR">
+    </player>
+    <player name="Nixon, Trudie" shortname="Nixon" code="" uni="3" gp="0" spot="0" pos="" bats="L" throws="R" class="SR">
+    </player>
+    <player name="Pederson, Deena" shortname="Pederson" code="" uni="23" gp="0" spot="0" pos="" bats="R" throws="R" class="FR">
+    </player>
+    <player name="Richards, Zoe" shortname="Richards" code="" uni="17" gp="0" spot="0" pos="" bats="R" throws="R" class="FR">
+    </player>
+    <player name="Wampler, Robyn" shortname="Wampler" code="" uni="8" gp="0" spot="0" pos="" bats="R" throws="L" class="SR">
+    </player>
+    <player name="Williams, Gabby" shortname="Williams" code="" uni="99" gp="0" spot="0" pos="" bats="L" throws="L" class="FR">
+    </player>
+  </team>
+  <team vh="H" id="LBSU" name="Long Beach State" code="99" record="16-5">
+    <linescore line="4,3,7,0,X" runs="14" hits="15" errs="2" lob="3">
+      <lineinn inn="1" score="4"></lineinn>
+      <lineinn inn="2" score="3"></lineinn>
+      <lineinn inn="3" score="7"></lineinn>
+      <lineinn inn="4" score="0"></lineinn>
+      <lineinn inn="5" score="X"></lineinn>
+    </linescore>
+    <starters>
+      <starter spot="1" name="Hernandez" uni="2" pos="rf"></starter>
+      <starter spot="2" name="Olson" uni="13" pos="lf"></starter>
+      <starter spot="3" name="Gonzalez" uni="23" pos="1b"></starter>
+      <starter spot="4" name="Brookshire" uni="6" pos="3b"></starter>
+      <starter spot="5" name="Wise" uni="20" pos="dp"></starter>
+      <starter spot="6" name="Salazar" uni="5" pos="ss"></starter>
+      <starter spot="7" name="Briones" uni="18" pos="c"></starter>
+      <starter spot="8" name="Ruffin" uni="7" pos="cf"></starter>
+      <starter spot="9" name="Martinez" uni="24" pos="2b"></starter>
+      <starter spot="10" name="White" uni="12" pos="p"></starter>
+    </starters>
+    <batords>
+      <batord spot="1" name="Seip" uni="4" pos="rf"></batord>
+      <batord spot="2" name="Iliff" uni="9" pos="2b"></batord>
+      <batord spot="3" name="Lawhorn" uni="10" pos="1b"></batord>
+      <batord spot="4" name="Camou" uni="17" pos="3b"></batord>
+      <batord spot="5" name="Wise" uni="20" pos="dp"></batord>
+      <batord spot="6" name="Salazar" uni="5" pos="ss"></batord>
+      <batord spot="7" name="Briones" uni="18" pos="c"></batord>
+      <batord spot="8" name="Ruffin" uni="7" pos="cf"></batord>
+      <batord spot="9" name="Martinez" uni="24" pos="lf"></batord>
+      <batord spot="10" name="Fowler" uni="3" pos="p"></batord>
+    </batords>
+    <totals>
+      <hitting ab="26" r="14" h="15" rbi="14" double="5" triple="2" hr="2" bb="2" sb="3" sf="1" ground="6" fly="6"></hitting>
+      <fielding po="15" a="5" e="2"></fielding>
+      <hsitsummary rchfc="1" ground="6" fly="6" w2outs="6,10" wrunners="11,17" wrbiops="9,14" vsleft="2,6" leadoff="2,4" rbi3rd="2,3" wloaded="1,1" advops="14,19" pinchhit="0,1" adv="2" lob="3" rbi-2out="6"></hsitsummary>
+      <pitching ip="5.0" h="6" r="4" er="2" bb="2" so="5" bf="25" ab="22" hbp="1" kl="2" fly="5" ground="5"></pitching>
+      <psitsummary fly="5" ground="5" leadoff="1,5" wrunners="4,14" vsleft="1,5" w2outs="0,6" pitches="81" strikes="0"></psitsummary>
+    </totals>
+    <player name="Hernandez" shortname="Hernandez" code="" uni="2" gp="1" gs="1" spot="1" pos="rf" bats="L" throws="R" class="JR">
+      <hitting ab="2" r="1" h="1" rbi="0" ground="1"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary ground="1" wrunners="1,1" wrbiops="1,1" leadoff="0,1" advops="1,1"></hsitsummary>
+      <hsituation context="bypos" pos="rf" ab="2" r="1" h="1" rbi="0" ground="1"></hsituation>
+      <fsituation context="bypos" pos="rf" po="0" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="2" r="1" h="1" rbi="0" ground="1"></hsituation>
+      <hsituation context="byspot" spot="1" ab="2" r="1" h="1" rbi="0" ground="1"></hsituation>
+      <hsituation context="leadoff" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="2" r="0" h="1" rbi="0" ground="1"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="1" rbi="0"></hsituation>
+    </player>
+    <player name="Seip" shortname="Seip" code="" uni="4" gp="1" spot="1" sub="1" pos="rf" atpos="rf" bats="L" throws="R" class="JR">
+      <hitting ab="2" r="0" h="0" rbi="0" ground="1" fly="1"></hitting>
+      <fielding po="1" a="0" e="0"></fielding>
+      <hsitsummary ground="1" fly="1" wrunners="0,1" wrbiops="0,1" vsleft="0,1" advops="1,1" adv="1"></hsitsummary>
+      <hsituation context="bypos" pos="rf" ab="2" r="0" h="0" rbi="0" ground="1" fly="1"></hsituation>
+      <fsituation context="bypos" pos="rf" po="1" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="byspot" spot="1" ab="2" r="0" h="0" rbi="0" ground="1" fly="1"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Thompson" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+    </player>
+    <player name="Olson" shortname="Olson" code="" uni="13" gp="1" gs="1" spot="2" pos="lf" bats="L" throws="R" class="FR">
+      <hitting ab="3" r="2" h="2" rbi="1" sb="1" ground="1"></hitting>
+      <fielding po="1" a="0" e="0"></fielding>
+      <hsitsummary ground="1" w2outs="1,1" wrunners="1,2" wrbiops="1,2" rbi3rd="0,1" advops="1,2" rbi-2out="1"></hsitsummary>
+      <hsituation context="bypos" pos="lf" ab="3" r="2" h="2" rbi="1" sb="1" ground="1"></hsituation>
+      <fsituation context="bypos" pos="lf" po="1" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="3" r="2" h="2" rbi="1" sb="1" ground="1"></hsituation>
+      <hsituation context="byspot" spot="2" ab="3" r="2" h="2" rbi="1" ground="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="1" rbi="0"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="3" r="0" h="2" rbi="1" sb="1" ground="1"></hsituation>
+      <hsituation context="runners" ab="2" r="0" h="1" rbi="1" ground="1"></hsituation>
+      <hsituation context="scorepos" ab="2" r="0" h="1" rbi="1" ground="1"></hsituation>
+      <hsituation context="runners2" ab="1" r="0" h="1" rbi="1"></hsituation>
+      <hsituation context="scorepos2" ab="1" r="0" h="1" rbi="1"></hsituation>
+    </player>
+    <player name="Iliff" shortname="Iliff" code="" uni="9" gp="1" spot="2" sub="1" pos="ph/2b" atpos="2b" bats="R" throws="R" class="FR">
+      <hitting ab="1" r="0" h="0" rbi="0" fly="1"></hitting>
+      <fielding po="1" a="1" e="0"></fielding>
+      <hsitsummary fly="1" w2outs="0,1" vsleft="0,1" pinchhit="0,1"></hsitsummary>
+      <hsituation context="bypos" pos="ph" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <fsituation context="bypos" pos="ph" po="0" a="0" e="0"></fsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="byspot" spot="2" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Thompson" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="bypos" pos="2b" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="2b" po="1" a="1" e="0"></fsituation>
+    </player>
+    <player name="Gonzalez" shortname="Gonzalez" code="" uni="23" gp="1" gs="1" spot="3" pos="1b" bats="R" throws="R" class="JR">
+      <hitting ab="3" r="3" h="3" rbi="4" double="1" hr="1"></hitting>
+      <fielding po="4" a="0" e="0"></fielding>
+      <hsitsummary w2outs="1,1" wrunners="3,3" wrbiops="2,2" rbi3rd="1,1" advops="3,3"></hsitsummary>
+      <hsituation context="bypos" pos="1b" ab="3" r="3" h="3" rbi="4" double="1" hr="1"></hsituation>
+      <fsituation context="bypos" pos="1b" po="4" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="3" r="3" h="3" rbi="4" double="1" hr="1"></hsituation>
+      <hsituation context="byspot" spot="3" ab="3" r="3" h="3" rbi="4" double="1" hr="1"></hsituation>
+      <hsituation context="runners" ab="3" r="0" h="3" rbi="4" double="1" hr="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="3" r="0" h="3" rbi="4" double="1" hr="1"></hsituation>
+      <hsituation context="scorepos" ab="2" r="0" h="2" rbi="4" double="1" hr="1"></hsituation>
+      <hsituation context="runners2" ab="1" r="0" h="1" rbi="0"></hsituation>
+    </player>
+    <player name="Lawhorn" shortname="Lawhorn" code="" uni="10" gp="1" spot="3" sub="1" pos="1b" atpos="1b" bats="L" throws="R" class="FR">
+      <hitting ab="0" r="0" h="0" rbi="0"></hitting>
+      <fielding po="1" a="0" e="0"></fielding>
+      <hsitsummary></hsitsummary>
+      <hsituation context="bypos" pos="1b" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="1b" po="1" a="0" e="0"></fsituation>
+    </player>
+    <player name="Brookshire" shortname="Brookshire" code="" uni="6" gp="1" gs="1" spot="4" pos="3b" bats="R" throws="R" class="SR">
+      <hitting ab="2" r="2" h="1" rbi="2" hr="1" bb="1" ground="1"></hitting>
+      <fielding po="1" a="2" e="1"></fielding>
+      <hsitsummary ground="1" wrunners="1,1" wrbiops="1,1" advops="2,2"></hsitsummary>
+      <hsituation context="bypos" pos="3b" ab="2" r="2" h="1" rbi="2" hr="1" bb="1" ground="1"></hsituation>
+      <fsituation context="bypos" pos="3b" po="1" a="2" e="1"></fsituation>
+      <hsituation context="vsright" ab="2" r="2" h="1" rbi="2" hr="1" bb="1" ground="1"></hsituation>
+      <hsituation context="byspot" spot="4" ab="2" r="2" h="1" rbi="2" hr="1" bb="1" ground="1"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="1" rbi="2" hr="1" bb="1"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="1" rbi="2" hr="1" bb="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="2" r="0" h="1" rbi="2" hr="1" bb="1" ground="1"></hsituation>
+      <hsituation context="empty" ab="1" r="0" h="0" rbi="0" ground="1"></hsituation>
+      <hsituation context="runners2" ab="0" r="0" h="0" rbi="0" bb="1"></hsituation>
+      <hsituation context="scorepos2" ab="0" r="0" h="0" rbi="0" bb="1"></hsituation>
+    </player>
+    <player name="Camou" shortname="Camou" code="" uni="17" gp="1" spot="4" sub="1" pos="3b" atpos="3b" bats="R" throws="R" class="FR">
+      <hitting ab="0" r="0" h="0" rbi="0"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary></hsitsummary>
+      <hsituation context="bypos" pos="3b" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="3b" po="0" a="0" e="0"></fsituation>
+    </player>
+    <player name="Wise" shortname="Wise" code="" uni="20" gp="1" gs="1" spot="5" pos="dp" atpos="dp" bats="L" throws="R" class="SR">
+      <hitting ab="3" r="2" h="3" rbi="3" triple="2" sb="1"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary w2outs="2,2" wrunners="1,1" wrbiops="1,1" wloaded="1,1" advops="1,1" rbi-2out="3"></hsitsummary>
+      <hsituation context="bypos" pos="dp" ab="3" r="2" h="3" rbi="3" triple="2" sb="1"></hsituation>
+      <fsituation context="bypos" pos="dp" po="0" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="3" r="1" h="3" rbi="3" triple="2" sb="1"></hsituation>
+      <hsituation context="byspot" spot="5" ab="3" r="2" h="3" rbi="3" triple="2"></hsituation>
+      <hsituation context="empty" ab="2" r="0" h="2" rbi="0" triple="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="3" r="0" h="3" rbi="3" triple="2" sb="1"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="1" rbi="3" triple="1"></hsituation>
+      <hsituation context="runners2" ab="1" r="0" h="1" rbi="3" triple="1"></hsituation>
+      <hsituation context="loaded" ab="1" r="0" h="1" rbi="3" triple="1"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="1" rbi="3" triple="1"></hsituation>
+      <hsituation context="scorepos2" ab="1" r="0" h="1" rbi="3" triple="1"></hsituation>
+      <hsituation context="vsleft" ab="0" r="1" h="0" rbi="0"></hsituation>
+    </player>
+    <player name="Salazar" shortname="Salazar" code="" uni="5" gp="1" gs="1" spot="6" pos="ss" atpos="ss" bats="R" throws="R" class="SO">
+      <hitting ab="3" r="1" h="2" rbi="1" double="1" sb="1" ground="1"></hitting>
+      <fielding po="1" a="0" e="0"></fielding>
+      <hsitsummary ground="1" w2outs="1,2" wrunners="2,3" wrbiops="2,3" vsleft="1,1" advops="2,3" lob="1" rbi-2out="1"></hsitsummary>
+      <hsituation context="bypos" pos="ss" ab="3" r="1" h="2" rbi="1" double="1" sb="1" ground="1"></hsituation>
+      <fsituation context="bypos" pos="ss" po="1" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="2" r="0" h="1" rbi="0" sb="1" ground="1"></hsituation>
+      <hsituation context="byspot" spot="6" ab="3" r="1" h="2" rbi="1" double="1" ground="1"></hsituation>
+      <hsituation context="runners" ab="3" r="0" h="2" rbi="1" double="1" ground="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="2" r="0" h="1" rbi="0" sb="1" ground="1"></hsituation>
+      <hsituation context="scorepos" ab="3" r="0" h="2" rbi="1" double="1" ground="1"></hsituation>
+      <hsituation context="runners2" ab="2" r="0" h="1" rbi="1" double="1" ground="1"></hsituation>
+      <hsituation context="scorepos2" ab="2" r="0" h="1" rbi="1" double="1" ground="1"></hsituation>
+      <hsituation context="vsleft" ab="1" r="1" h="1" rbi="1" double="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Thompson" ab="1" r="0" h="1" rbi="1" double="1"></hsituation>
+    </player>
+    <player name="Briones" shortname="Briones" code="" uni="18" gp="1" gs="1" spot="7" pos="c" atpos="c" bats="R" throws="R" class="JR">
+      <hitting ab="1" r="0" h="1" rbi="2" double="1" bb="1" sf="1" fly="1"></hitting>
+      <fielding po="5" a="0" e="1"></fielding>
+      <hsitsummary fly="1" w2outs="1,1" wrunners="1,1" wrbiops="1,1" vsleft="1,1" leadoff="1,1" rbi3rd="1,1" advops="2,2" adv="1" rbi-2out="1"></hsitsummary>
+      <hsituation context="bypos" pos="c" ab="1" r="0" h="1" rbi="2" double="1" bb="1" sf="1" fly="1"></hsituation>
+      <fsituation context="bypos" pos="c" po="5" a="0" e="1"></fsituation>
+      <hsituation context="vsright" ab="0" r="0" h="0" rbi="1" bb="1" sf="1" fly="1"></hsituation>
+      <hsituation context="byspot" spot="7" ab="1" r="0" h="1" rbi="2" double="1" bb="1" sf="1" fly="1"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="1" rbi="2" double="1" sf="1" fly="1"></hsituation>
+      <hsituation context="scorepos" ab="1" r="0" h="1" rbi="2" double="1" sf="1" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="0" r="0" h="0" rbi="1" bb="1" sf="1" fly="1"></hsituation>
+      <hsituation context="leadoff" ab="0" r="0" h="0" rbi="0" bb="1"></hsituation>
+      <hsituation context="empty" ab="0" r="0" h="0" rbi="0" bb="1"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="1" rbi="1" double="1"></hsituation>
+      <hsituation context="runners2" ab="1" r="0" h="1" rbi="1" double="1"></hsituation>
+      <hsituation context="scorepos2" ab="1" r="0" h="1" rbi="1" double="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Thompson" ab="1" r="0" h="1" rbi="1" double="1"></hsituation>
+    </player>
+    <player name="Ruffin" shortname="Ruffin" code="" uni="7" gp="1" gs="1" spot="8" pos="cf" atpos="cf" bats="L" throws="R" class="SO">
+      <hitting ab="3" r="1" h="0" rbi="0" ground="1" fly="2"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary rchfc="1" ground="1" fly="2" w2outs="0,2" wrunners="0,3" wrbiops="0,2" vsleft="0,1" advops="0,3" lob="2"></hsitsummary>
+      <hsituation context="bypos" pos="cf" ab="3" r="1" h="0" rbi="0" ground="1" fly="2"></hsituation>
+      <fsituation context="bypos" pos="cf" po="0" a="0" e="0"></fsituation>
+      <hsituation context="vsright" ab="2" r="1" h="0" rbi="0" ground="1" fly="1"></hsituation>
+      <hsituation context="byspot" spot="8" ab="3" r="1" h="0" rbi="0" ground="1" fly="2"></hsituation>
+      <hsituation context="runners" ab="3" r="0" h="0" rbi="0" ground="1" fly="2"></hsituation>
+      <hsituation context="runners2" ab="2" r="0" h="0" rbi="0" fly="2"></hsituation>
+      <hsituation context="scorepos" ab="2" r="0" h="0" rbi="0" fly="2"></hsituation>
+      <hsituation context="scorepos2" ab="2" r="0" h="0" rbi="0" fly="2"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="2" r="0" h="0" rbi="0" ground="1" fly="1"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Thompson" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+    </player>
+    <player name="Martinez" shortname="Martinez" code="" uni="24" gp="1" gs="1" spot="9" pos="2b/lf" atpos="lf" bats="R" throws="R" class="FR">
+      <hitting ab="3" r="2" h="2" rbi="1" double="2" fly="1"></hitting>
+      <fielding po="0" a="2" e="0"></fielding>
+      <hsitsummary fly="1" wrunners="1,1" vsleft="0,1" leadoff="1,2" advops="1,1"></hsitsummary>
+      <hsituation context="bypos" pos="2b" ab="3" r="2" h="2" rbi="1" double="2" fly="1"></hsituation>
+      <fsituation context="bypos" pos="2b" po="0" a="2" e="0"></fsituation>
+      <hsituation context="vsright" ab="2" r="2" h="2" rbi="1" double="2"></hsituation>
+      <hsituation context="byspot" spot="9" ab="3" r="2" h="2" rbi="1" double="2" fly="1"></hsituation>
+      <hsituation context="leadoff" ab="2" r="0" h="1" rbi="0" double="1" fly="1"></hsituation>
+      <hsituation context="empty" ab="2" r="0" h="1" rbi="0" double="1" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Simpson" ab="2" r="0" h="2" rbi="1" double="2"></hsituation>
+      <hsituation context="runners" ab="1" r="0" h="1" rbi="1" double="1"></hsituation>
+      <hsituation context="vsleft" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="vspitcher" pitcher="Thompson" ab="1" r="0" h="0" rbi="0" fly="1"></hsituation>
+      <hsituation context="bypos" pos="lf" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="lf" po="0" a="0" e="0"></fsituation>
+    </player>
+    <player name="White" shortname="White" code="" uni="12" gp="1" gs="1" spot="10" pos="p" bats="R" throws="R" class="SR">
+      <hitting ab="0" r="0" h="0" rbi="0"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary></hsitsummary>
+      <pitching appear="1" gs="1" ip="2.0" h="6" r="4" er="2" bb="0" so="1" bf="13" ab="13" pitches="28" strikes="22" fly="2" ground="3"></pitching>
+      <psitsummary fly="2" ground="3" leadoff="1,2" wrunners="4,10" vsleft="1,3" w2outs="0,3" pitches="28" strikes="22"></psitsummary>
+      <hsituation context="bypos" pos="p" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="p" po="0" a="0" e="0"></fsituation>
+      <psituation context="byinn" inn="1" ip="1.0" h="3" r="1" er="1" bb="0" so="0" bf="6" ab="6" fly="1" ground="2"></psituation>
+      <psituation context="vsright" ip="1.1" h="5" r="0" er="0" bb="0" so="0" bf="10" ab="10" fly="2" ground="2"></psituation>
+      <psituation context="leadoff" ip="0.1" h="1" r="0" er="0" bb="0" so="1" bf="2" ab="2"></psituation>
+      <psituation context="empty" ip="0.1" h="2" r="0" er="0" bb="0" so="1" bf="3" ab="3"></psituation>
+      <psituation context="runners" ip="1.2" h="4" r="0" er="0" bb="0" so="0" bf="10" ab="10" fly="2" ground="3"></psituation>
+      <psituation context="scorepos" ip="1.1" h="2" r="0" er="0" bb="0" so="0" bf="7" ab="7" fly="1" ground="3"></psituation>
+      <psituation context="vsleft" ip="0.2" h="1" r="0" er="0" bb="0" so="1" bf="3" ab="3" ground="1"></psituation>
+      <psituation context="runners2" ip="0.2" h="0" r="0" er="0" bb="0" so="0" bf="3" ab="3" fly="1" ground="1"></psituation>
+      <psituation context="scorepos2" ip="0.1" h="0" r="0" er="0" bb="0" so="0" bf="2" ab="2" ground="1"></psituation>
+      <psituation context="byinn" inn="2" ip="1.0" h="3" r="3" er="1" bb="0" so="1" bf="7" ab="7" fly="1" ground="1"></psituation>
+      <psituation context="loaded" ip="0.1" h="0" r="0" er="0" bb="0" so="0" bf="1" ab="1" ground="1"></psituation>
+    </player>
+    <player name="Quinlan" shortname="Quinlan" code="" uni="21" gp="1" spot="10" sub="1" pos="p" bats="L" throws="L" class="FR">
+      <hitting ab="0" r="0" h="0" rbi="0"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary></hsitsummary>
+      <pitching appear="2" win="1-1" ip="2.0" h="0" r="0" er="0" bb="1" so="4" bf="8" ab="6" hbp="1" kl="2" pitches="33" strikes="20" fly="1" ground="1" inheritr="0" inherits="0"></pitching>
+      <psitsummary fly="1" ground="1" leadoff="0,2" wrunners="0,3" vsleft="0,2" w2outs="0,2" pitches="33" strikes="20"></psitsummary>
+      <hsituation context="bypos" pos="p" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="p" po="0" a="0" e="0"></fsituation>
+      <psituation context="byinn" inn="3" ip="1.0" h="0" r="0" er="0" bb="1" so="1" bf="4" ab="3" fly="1" ground="1"></psituation>
+      <psituation context="vsright" ip="1.1" h="0" r="0" er="0" bb="0" so="3" bf="5" ab="4" hbp="1" kl="1" fly="1"></psituation>
+      <psituation context="leadoff" ip="0.2" h="0" r="0" er="0" bb="0" so="2" bf="2" ab="2" kl="1"></psituation>
+      <psituation context="empty" ip="1.0" h="0" r="0" er="0" bb="1" so="2" bf="5" ab="3" hbp="1" kl="1" ground="1"></psituation>
+      <psituation context="vsleft" ip="0.2" h="0" r="0" er="0" bb="1" so="1" bf="3" ab="2" kl="1" ground="1"></psituation>
+      <psituation context="runners" ip="1.0" h="0" r="0" er="0" bb="0" so="2" bf="3" ab="3" kl="1" fly="1"></psituation>
+      <psituation context="runners2" ip="0.2" h="0" r="0" er="0" bb="0" so="1" bf="2" ab="2" fly="1"></psituation>
+      <psituation context="byinn" inn="4" ip="1.0" h="0" r="0" er="0" bb="0" so="3" bf="4" ab="3" hbp="1" kl="2"></psituation>
+    </player>
+    <player name="Fowler" shortname="Fowler" code="" uni="3" gp="1" spot="10" sub="2" pos="p" atpos="p" bats="R" throws="R" class="SO">
+      <hitting ab="0" r="0" h="0" rbi="0"></hitting>
+      <fielding po="0" a="0" e="0"></fielding>
+      <hsitsummary></hsitsummary>
+      <pitching appear="3" ip="1.0" h="0" r="0" er="0" bb="1" so="0" bf="4" ab="3" pitches="20" strikes="11" fly="2" ground="1" inheritr="0" inherits="0"></pitching>
+      <psitsummary fly="2" ground="1" leadoff="0,1" wrunners="0,1" w2outs="0,1" pitches="20" strikes="11"></psitsummary>
+      <hsituation context="bypos" pos="p" ab="0" r="0" h="0" rbi="0"></hsituation>
+      <fsituation context="bypos" pos="p" po="0" a="0" e="0"></fsituation>
+      <psituation context="byinn" inn="5" ip="1.0" h="0" r="0" er="0" bb="1" so="0" bf="4" ab="3" fly="2" ground="1"></psituation>
+      <psituation context="vsright" ip="1.0" h="0" r="0" er="0" bb="0" so="0" bf="3" ab="3" fly="2" ground="1"></psituation>
+      <psituation context="leadoff" ip="0.1" h="0" r="0" er="0" bb="0" so="0" bf="1" ab="1" fly="1"></psituation>
+      <psituation context="empty" ip="0.2" h="0" r="0" er="0" bb="1" so="0" bf="3" ab="2" fly="1" ground="1"></psituation>
+      <psituation context="vsleft" ip="0.0" h="0" r="0" er="0" bb="1" so="0" bf="1" ab="0"></psituation>
+      <psituation context="runners" ip="0.1" h="0" r="0" er="0" bb="0" so="0" bf="1" ab="1" fly="1"></psituation>
+      <psituation context="runners2" ip="0.1" h="0" r="0" er="0" bb="0" so="0" bf="1" ab="1" fly="1"></psituation>
+    </player>
+    <player name="Ceballos" shortname="Ceballos" code="" uni="26" gp="0" spot="0" pos="" bats="R" throws="R" class="FR">
+    </player>
+    <player name="Cecil" shortname="Cecil" code="" uni="1" gp="0" spot="0" pos="" bats="L" throws="R" class="SO">
+    </player>
+    <player name="Cox" shortname="Cox" code="" uni="8" gp="0" spot="0" pos="" bats="R" throws="R" class="FR">
+    </player>
+    <player name="Fernandez" shortname="Fernandez" code="" uni="19" gp="0" spot="0" pos="" bats="L" throws="L" class="FR">
+    </player>
+    <player name="Frutoz" shortname="Frutoz" code="" uni="15" gp="0" spot="0" pos="" bats="R" throws="R" class="FR">
+    </player>
+    <player name="Haddad" shortname="Haddad" code="" uni="22" gp="0" spot="0" pos="" bats="R" throws="R" class="FR">
+    </player>
+    <player name="Kostrencich" shortname="Kostrencich" code="" uni="14" gp="0" spot="0" pos="" bats="R" throws="R" class="FR">
+    </player>
+    <player name="Machado" shortname="Machado" code="" uni="11" gp="0" spot="0" pos="" bats="L" throws="R" class="JR">
+    </player>
+    <player name="Miraglia" shortname="Miraglia" code="" uni="25" gp="0" spot="0" pos="" bats="R" throws="R" class="SO">
+    </player>
+    <player name="Snyder" shortname="Snyder" code="" uni="16" gp="0" spot="0" pos="" bats="R" throws="R" class="JR">
+    </player>
+  </team>
+  <plays format="summary">
+    <inning number="1">
+      <batting vh="V" id="UCSD">
+        <play seq="1" outs="0" batter="Bosinger" batprof="R" pitcher="White" pchprof="R">
+          <batter name="Bosinger" action="1B MI" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="8" wheredesc="middle"></batter>
+          <pitcher name="White" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <narrative text="Bosinger singled up the middle (0-0)."></narrative>
+        </play>
+        <play seq="2" outs="0" batter="Real" batprof="R" pitcher="White" pchprof="R" first="Bosinger">
+          <batter name="Real" action="1B 3 BU" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="3" wheredesc="first base"></batter>
+          <runner base="1" name="Bosinger" action="+" out="0" adv="1" tobase="2"></runner>
+          <pitcher name="White" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="BP" b="1" s="0"></pitches>
+          <narrative text="Real singled to first base, bunt (1-0 B); Bosinger advanced to second."></narrative>
+        </play>
+        <play seq="3" outs="0" batter="Harrington" batprof="R" pitcher="White" pchprof="R" first="Real" second="Bosinger">
+          <runner base="1" name="Real" action="E2T" out="0" adv="1" tobase="2"></runner>
+          <runner base="2" name="Bosinger" action="+" out="0" adv="1" tobase="3"></runner>
+          <pitcher name="White"></pitcher>
+          <fielder pos="c" name="Briones" e="1"></fielder>
+          <narrative text="Real advanced to second on a throwing error by c; Bosinger advanced to third."></narrative>
+        </play>
+        <play seq="4" outs="0" batter="Harrington" batprof="R" pitcher="White" pchprof="R" second="Real" third="Bosinger">
+          <batter name="Harrington" action="1B RS RBI" out="0" adv="1" tobase="1" ab="1" h="1" rbi="1" wherehit="9" wheredesc="right side"></batter>
+          <runner base="2" name="Real" action="+" out="0" adv="1" tobase="3"></runner>
+          <runner base="3" name="Bosinger" action="+" out="0" adv="1" tobase="4" scored="1" por="White"></runner>
+          <pitcher name="White" bf="1" ab="1" h="1" r="1" er="1"></pitcher>
+          <pitches text="KFP" b="0" s="2"></pitches>
+          <narrative text="Harrington singled through the right side, RBI (0-2 KF); Real advanced to third; Bosinger scored."></narrative>
+        </play>
+        <play seq="5" outs="0" batter="Aguirre" batprof="R" pitcher="White" pchprof="R" first="Harrington" third="Real">
+          <batter name="Aguirre" action="53" out="1" adv="0" tobase="0" ab="1" gndout="1" wherehit="5"></batter>
+          <runner base="1" name="Harrington" action="+" out="0" adv="1" tobase="2"></runner>
+          <pitcher name="White" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="KKP" b="0" s="2"></pitches>
+          <fielder pos="1b" name="Gonzalez" po="1"></fielder>
+          <fielder pos="3b" name="Brookshire" a="1"></fielder>
+          <narrative text="Aguirre grounded out to 3b (0-2 KK); Harrington advanced to second."></narrative>
+        </play>
+        <play seq="6" outs="1" batter="Lavrov" batprof="R" pitcher="White" pchprof="R" second="Harrington" third="Real">
+          <batter name="Lavrov" action="FF5" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="5"></batter>
+          <pitcher name="White" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <fielder pos="3b" name="Brookshire" po="1"></fielder>
+          <narrative text="Lavrov fouled out to 3b (0-0)."></narrative>
+        </play>
+        <play seq="7" outs="2" batter="Kazakoff" batprof="L" pitcher="White" pchprof="R" second="Harrington" third="Real">
+          <batter name="Kazakoff" action="53" out="1" adv="0" tobase="0" ab="1" gndout="1" wherehit="5"></batter>
+          <pitcher name="White" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <fielder pos="1b" name="Gonzalez" po="1"></fielder>
+          <fielder pos="3b" name="Brookshire" a="1"></fielder>
+          <narrative text="Kazakoff grounded out to 3b (0-0)."></narrative>
+        </play>
+        <innsummary r="1" h="3" e="1" lob="2"></innsummary>
+      </batting>
+      <batting vh="H" id="LBSU">
+        <play seq="8" outs="0" batter="Hernandez" batprof="L" pitcher="Simpson" pchprof="R">
+          <batter name="Hernandez" action="53" out="1" adv="0" tobase="0" ab="1" gndout="1" wherehit="5"></batter>
+          <pitcher name="Simpson" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="BBBKKP" b="3" s="2"></pitches>
+          <fielder pos="1b" name="Harrington" po="1"></fielder>
+          <fielder pos="3b" name="Aguirre" a="1"></fielder>
+          <narrative text="Hernandez grounded out to 3b (3-2 BBBKK)."></narrative>
+        </play>
+        <play seq="9" outs="1" batter="Olson" batprof="L" pitcher="Simpson" pchprof="R">
+          <batter name="Olson" action="1B 6" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="6" wheredesc="shortstop"></batter>
+          <pitcher name="Simpson" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="FBP" b="1" s="1"></pitches>
+          <narrative text="Olson singled to shortstop (1-1 FB)."></narrative>
+        </play>
+        <play seq="10" outs="1" batter="Gonzalez" batprof="R" pitcher="Simpson" pchprof="R" first="Olson">
+          <runner base="1" name="Olson" action="SB" out="0" adv="1" tobase="2" sb="1"></runner>
+          <pitcher name="Simpson" sba="1"></pitcher>
+          <fielder pos="p" name="Simpson" sba="1"></fielder>
+          <fielder pos="c" name="Reynoso" sba="1"></fielder>
+          <narrative text="Olson stole second."></narrative>
+        </play>
+        <play seq="11" outs="1" batter="Gonzalez" batprof="R" pitcher="Simpson" pchprof="R" second="Olson">
+          <batter name="Gonzalez" action="2B LL RBI" out="0" adv="2" tobase="2" ab="1" h="1" rbi="1" double="1" wherehit="7" wheredesc="lf line"></batter>
+          <runner base="2" name="Olson" action="++" out="0" adv="2" tobase="4" scored="1" por="Simpson"></runner>
+          <pitcher name="Simpson" bf="1" ab="1" h="1" r="1" er="1" double="1"></pitcher>
+          <pitches text="BFKFBP" b="2" s="2"></pitches>
+          <narrative text="Gonzalez doubled down the lf line, RBI (2-2 BFKFB); Olson scored."></narrative>
+        </play>
+        <play seq="12" outs="1" batter="Brookshire" batprof="R" pitcher="Simpson" pchprof="R" second="Gonzalez">
+          <batter name="Brookshire" action="HR 7 RBI2" out="0" adv="4" tobase="4" ab="1" h="1" rbi="2" hr="1" wherehit="7" wheredesc="left field" scored="1" por="Simpson"></batter>
+          <runner base="2" name="Gonzalez" action="++" out="0" adv="2" tobase="4" scored="1" por="Simpson"></runner>
+          <pitcher name="Simpson" bf="1" ab="1" h="1" r="2" er="2" hr="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <narrative text="Brookshire homered to left field, 2 RBI (0-0); Gonzalez scored."></narrative>
+        </play>
+        <play seq="13" outs="1" batter="Wise" batprof="L" pitcher="Simpson" pchprof="R">
+          <batter name="Wise" action="1B MI" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="8" wheredesc="middle"></batter>
+          <pitcher name="Simpson" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="FBBBKP" b="3" s="2"></pitches>
+          <narrative text="Wise singled up the middle (3-2 FBBBK)."></narrative>
+        </play>
+        <play seq="14" outs="1" batter="Salazar" batprof="R" pitcher="Simpson" pchprof="R" first="Wise">
+          <runner base="1" name="Wise" action="SB" out="0" adv="1" tobase="2" sb="1"></runner>
+          <pitcher name="Simpson" sba="1"></pitcher>
+          <fielder pos="p" name="Simpson" sba="1"></fielder>
+          <fielder pos="c" name="Reynoso" sba="1"></fielder>
+          <narrative text="Wise stole second."></narrative>
+        </play>
+        <play seq="15" outs="1" batter="Salazar" batprof="R" pitcher="Simpson" pchprof="R" second="Wise">
+          <batter name="Salazar" action="1B 7" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="7" wheredesc="left field"></batter>
+          <runner base="2" name="Wise" action="+" out="0" adv="1" tobase="3"></runner>
+          <pitcher name="Simpson" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="BP" b="1" s="0"></pitches>
+          <narrative text="Salazar singled to left field (1-0 B); Wise advanced to third."></narrative>
+        </play>
+        <play seq="16" outs="1" batter="Briones" batprof="R" pitcher="Simpson" pchprof="R" first="Salazar" third="Wise">
+          <runner base="1" name="Salazar" action="SB" out="0" adv="1" tobase="2" sb="1"></runner>
+          <pitcher name="Simpson" sba="1"></pitcher>
+          <fielder pos="p" name="Simpson" sba="1"></fielder>
+          <fielder pos="c" name="Reynoso" sba="1"></fielder>
+          <narrative text="Salazar stole second."></narrative>
+        </play>
+        <play seq="17" outs="1" batter="Briones" batprof="R" pitcher="Simpson" pchprof="R" second="Salazar" third="Wise">
+          <batter name="Briones" action="F9 SF RBI" out="1" adv="0" tobase="0" rbi="1" sf="1" flyout="1" wherehit="9"></batter>
+          <runner base="3" name="Wise" action="+" out="0" adv="1" tobase="4" scored="1" por="Simpson"></runner>
+          <pitcher name="Simpson" bf="1" ip="1" r="1" er="1" flyout="1" sfa="1"></pitcher>
+          <pitches text="FSBP" b="1" s="2"></pitches>
+          <fielder pos="rf" name="Pancino" po="1"></fielder>
+          <narrative text="Briones flied out to rf, SF, RBI (1-2 FSB); Wise scored."></narrative>
+        </play>
+        <play seq="18" outs="2" batter="Ruffin" batprof="L" pitcher="Simpson" pchprof="R" second="Salazar">
+          <batter name="Ruffin" action="F8" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="8"></batter>
+          <pitcher name="Simpson" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="KP" b="0" s="1"></pitches>
+          <fielder pos="cf" name="Renner" po="1"></fielder>
+          <narrative text="Ruffin flied out to cf (0-1 K)."></narrative>
+        </play>
+        <innsummary r="4" h="5" e="0" lob="1"></innsummary>
+      </batting>
+    </inning>
+    <inning number="2">
+      <batting vh="V" id="UCSD">
+        <play seq="19" outs="0" batter="Pancino" batprof="L" pitcher="White" pchprof="R">
+          <batter name="Pancino" action="KS" out="1" adv="0" tobase="0" ab="1" k="1"></batter>
+          <pitcher name="White" bf="1" ip="1" ab="1" k="1"></pitcher>
+          <pitches text="FKS" b="0" s="3"></pitches>
+          <fielder pos="c" name="Briones" po="1"></fielder>
+          <narrative text="Pancino struck out swinging (0-2 FKS)."></narrative>
+        </play>
+        <play seq="20" outs="1" batter="Reynoso" batprof="R" pitcher="White" pchprof="R">
+          <batter name="Reynoso" action="1B 7" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="7" wheredesc="left field"></batter>
+          <pitcher name="White" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="BP" b="1" s="0"></pitches>
+          <narrative text="Reynoso singled to left field (1-0 B)."></narrative>
+        </play>
+        <play seq="21" outs="1" batter="Renner" batprof="L" pitcher="White" pchprof="R" first="Reynoso">
+          <batter name="Renner" action="1B LS" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="7" wheredesc="left side"></batter>
+          <runner base="1" name="Reynoso" action="+" out="0" adv="1" tobase="2"></runner>
+          <pitcher name="White" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="BP" b="1" s="0"></pitches>
+          <narrative text="Renner singled through the left side (1-0 B); Reynoso advanced to second."></narrative>
+        </play>
+        <play seq="22" outs="1" batter="Bosinger" batprof="R" pitcher="White" pchprof="R" first="Renner" second="Reynoso">
+          <sub vh="V" spot="8" who="Melendez" for="Reynoso" pos="pr"></sub>
+          <narrative text="Melendez pinch ran for Reynoso."></narrative>
+        </play>
+        <play seq="23" outs="1" batter="Bosinger" batprof="R" pitcher="White" pchprof="R" first="Renner" second="Melendez">
+          <batter name="Bosinger" action="1B 7" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="7" wheredesc="left field"></batter>
+          <runner base="1" name="Renner" action="+" out="0" adv="1" tobase="2"></runner>
+          <runner base="2" name="Melendez" action="+" out="0" adv="1" tobase="3"></runner>
+          <pitcher name="White" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="BP" b="1" s="0"></pitches>
+          <narrative text="Bosinger singled to left field (1-0 B); Renner advanced to second; Melendez advanced to third."></narrative>
+        </play>
+        <play seq="24" outs="1" batter="Real" batprof="R" pitcher="White" pchprof="R" first="Bosinger" second="Renner" third="Melendez">
+          <batter name="Real" action="43 RBI" out="1" adv="0" tobase="0" ab="1" rbi="1" gndout="1" wherehit="4"></batter>
+          <runner base="1" name="Bosinger" action="+" out="0" adv="1" tobase="2"></runner>
+          <runner base="2" name="Renner" action="+" out="0" adv="1" tobase="3"></runner>
+          <runner base="3" name="Melendez" action="+" out="0" adv="1" tobase="4" scored="1" por="White"></runner>
+          <pitcher name="White" bf="1" ip="1" ab="1" r="1" er="1" gndout="1"></pitcher>
+          <pitches text="KP" b="0" s="1"></pitches>
+          <fielder pos="1b" name="Gonzalez" po="1"></fielder>
+          <fielder pos="2b" name="Martinez" a="1"></fielder>
+          <narrative text="Real grounded out to 2b, RBI (0-1 K); Bosinger advanced to second; Renner advanced to third; Melendez scored."></narrative>
+        </play>
+        <play seq="25" outs="2" batter="Harrington" batprof="R" pitcher="White" pchprof="R" second="Bosinger" third="Renner">
+          <batter name="Harrington" action="E5T" out="0" adv="1" tobase="1" ab="1" rcherr="1" wherehit="5"></batter>
+          <runner base="2" name="Bosinger" action="++ UE" out="0" adv="2" tobase="4" scored="1" ue="1" por="White"></runner>
+          <runner base="3" name="Renner" action="+ UE" out="0" adv="1" tobase="4" scored="1" ue="1" por="White"></runner>
+          <pitcher name="White" bf="1" ab="1" r="2"></pitcher>
+          <pitches text="KSP" b="0" s="2"></pitches>
+          <fielder pos="3b" name="Brookshire" e="1"></fielder>
+          <narrative text="Harrington reached on a throwing error by 3b (0-2 KS); Bosinger scored, unearned; Renner scored, unearned."></narrative>
+        </play>
+        <play seq="26" outs="2" batter="Aguirre" batprof="R" pitcher="White" pchprof="R" first="Harrington">
+          <batter name="Aguirre" action="F7" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="7"></batter>
+          <pitcher name="White" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="BBP" b="2" s="0"></pitches>
+          <fielder pos="lf" name="Olson" po="1"></fielder>
+          <narrative text="Aguirre flied out to lf (2-0 BB)."></narrative>
+        </play>
+        <innsummary r="3" h="3" e="1" lob="1"></innsummary>
+      </batting>
+      <batting vh="H" id="LBSU">
+        <play seq="27" outs="0" batter="Martinez" batprof="R" pitcher="Simpson" pchprof="R">
+          <sub vh="V" spot="8" who="Reynoso" for="Melendez" pos="c"></sub>
+          <narrative text="Reynoso to c for Melendez."></narrative>
+        </play>
+        <play seq="28" outs="0" batter="Martinez" batprof="R" pitcher="Simpson" pchprof="R">
+          <batter name="Martinez" action="2B 7" out="0" adv="2" tobase="2" ab="1" h="1" double="1" wherehit="7" wheredesc="left field"></batter>
+          <pitcher name="Simpson" bf="1" ab="1" h="1" double="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <narrative text="Martinez doubled to left field (0-0)."></narrative>
+        </play>
+        <play seq="29" outs="0" batter="Hernandez" batprof="L" pitcher="Simpson" pchprof="R" second="Martinez">
+          <batter name="Hernandez" action="1B 1 BU" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="1" wheredesc="pitcher"></batter>
+          <runner base="2" name="Martinez" action="+" out="0" adv="1" tobase="3"></runner>
+          <pitcher name="Simpson" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <narrative text="Hernandez singled to pitcher, bunt (0-0); Martinez advanced to third."></narrative>
+        </play>
+        <play seq="30" outs="0" batter="Olson" batprof="L" pitcher="Simpson" pchprof="R" first="Hernandez" third="Martinez">
+          <batter name="Olson" action="2UA" out="1" adv="0" tobase="0" ab="1" gndout="1" wherehit="2"></batter>
+          <pitcher name="Simpson" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="FP" b="0" s="1"></pitches>
+          <fielder pos="c" name="Reynoso" po="1"></fielder>
+          <narrative text="Olson grounded out to c unassisted (0-1 F)."></narrative>
+        </play>
+        <play seq="31" outs="1" batter="Gonzalez" batprof="R" pitcher="Simpson" pchprof="R" first="Hernandez" third="Martinez">
+          <batter name="Gonzalez" action="HR 9 RBI3" out="0" adv="4" tobase="4" ab="1" h="1" rbi="3" hr="1" wherehit="9" wheredesc="right field" scored="1" por="Simpson"></batter>
+          <runner base="1" name="Hernandez" action="+++" out="0" adv="3" tobase="4" scored="1" por="Simpson"></runner>
+          <runner base="3" name="Martinez" action="+" out="0" adv="1" tobase="4" scored="1" por="Simpson"></runner>
+          <pitcher name="Simpson" bf="1" ab="1" h="1" r="3" er="3" hr="1"></pitcher>
+          <pitches text="BKP" b="1" s="1"></pitches>
+          <narrative text="Gonzalez homered to right field, 3 RBI (1-1 BK); Hernandez scored; Martinez scored."></narrative>
+        </play>
+        <play seq="32" outs="1" batter="Brookshire" batprof="R" pitcher="Simpson" pchprof="R">
+          <batter name="Brookshire" action="43" out="1" adv="0" tobase="0" ab="1" gndout="1" wherehit="4"></batter>
+          <pitcher name="Simpson" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="BKBP" b="2" s="1"></pitches>
+          <fielder pos="1b" name="Harrington" po="1"></fielder>
+          <fielder pos="2b" name="Lavrov" a="1"></fielder>
+          <narrative text="Brookshire grounded out to 2b (2-1 BKB)."></narrative>
+        </play>
+        <play seq="33" outs="2" batter="Wise" batprof="L" pitcher="Simpson" pchprof="R">
+          <batter name="Wise" action="3B 7" out="0" adv="3" tobase="3" ab="1" h="1" triple="1" wherehit="7" wheredesc="left field"></batter>
+          <pitcher name="Simpson" bf="1" ab="1" h="1" triple="1"></pitcher>
+          <pitches text="KKBP" b="1" s="2"></pitches>
+          <narrative text="Wise tripled to left field (1-2 KKB)."></narrative>
+        </play>
+        <play seq="34" outs="2" batter="Salazar" batprof="R" pitcher="Simpson" pchprof="R" third="Wise">
+          <batter name="Salazar" action="43" out="1" adv="0" tobase="0" ab="1" gndout="1" wherehit="4"></batter>
+          <pitcher name="Simpson" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <fielder pos="1b" name="Harrington" po="1"></fielder>
+          <fielder pos="2b" name="Lavrov" a="1"></fielder>
+          <narrative text="Salazar grounded out to 2b (0-0)."></narrative>
+        </play>
+        <innsummary r="3" h="4" e="0" lob="1"></innsummary>
+      </batting>
+    </inning>
+    <inning number="3">
+      <batting vh="V" id="UCSD">
+        <play seq="35" outs="0" batter="Lavrov" batprof="R" pitcher="White" pchprof="R">
+          <sub vh="H" spot="10" who="Quinlan" for="White" pos="p"></sub>
+          <narrative text="Quinlan to p for White."></narrative>
+        </play>
+        <play seq="36" outs="0" batter="Lavrov" batprof="R" pitcher="Quinlan" pchprof="L">
+          <sub vh="H" spot="1" who="Seip" for="Hernandez" pos="rf"></sub>
+          <narrative text="Seip to rf for Hernandez."></narrative>
+        </play>
+        <play seq="37" outs="0" batter="Lavrov" batprof="R" pitcher="Quinlan" pchprof="L">
+          <batter name="Lavrov" action="KS" out="1" adv="0" tobase="0" ab="1" k="1"></batter>
+          <pitcher name="Quinlan" bf="1" ip="1" ab="1" k="1"></pitcher>
+          <pitches text="BBKKS" b="2" s="3"></pitches>
+          <fielder pos="c" name="Briones" po="1"></fielder>
+          <narrative text="Lavrov struck out swinging (2-2 BBKKS)."></narrative>
+        </play>
+        <play seq="38" outs="1" batter="Kazakoff" batprof="L" pitcher="Quinlan" pchprof="L">
+          <batter name="Kazakoff" action="43" out="1" adv="0" tobase="0" ab="1" gndout="1" wherehit="4"></batter>
+          <pitcher name="Quinlan" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="SBP" b="1" s="1"></pitches>
+          <fielder pos="1b" name="Gonzalez" po="1"></fielder>
+          <fielder pos="2b" name="Martinez" a="1"></fielder>
+          <narrative text="Kazakoff grounded out to 2b (1-1 SB)."></narrative>
+        </play>
+        <play seq="39" outs="2" batter="Pancino" batprof="L" pitcher="Quinlan" pchprof="L">
+          <batter name="Pancino" action="BB" out="0" adv="1" tobase="1" bb="1"></batter>
+          <pitcher name="Quinlan" bf="1" bb="1"></pitcher>
+          <pitches text="SBFBBB" b="4" s="2"></pitches>
+          <narrative text="Pancino walked (3-2 SBFBBB)."></narrative>
+        </play>
+        <play seq="40" outs="2" batter="Reynoso" batprof="R" pitcher="Quinlan" pchprof="L" first="Pancino">
+          <batter name="Reynoso" action="F9" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="9"></batter>
+          <pitcher name="Quinlan" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <fielder pos="rf" name="Seip" po="1"></fielder>
+          <narrative text="Reynoso flied out to rf (0-0)."></narrative>
+        </play>
+        <innsummary r="0" h="0" e="0" lob="1"></innsummary>
+      </batting>
+      <batting vh="H" id="LBSU">
+        <play seq="41" outs="0" batter="Briones" batprof="R" pitcher="Simpson" pchprof="R">
+          <batter name="Briones" action="BB" out="0" adv="1" tobase="1" bb="1"></batter>
+          <pitcher name="Simpson" bf="1" bb="1"></pitcher>
+          <pitches text="BBFFBB" b="4" s="2"></pitches>
+          <narrative text="Briones walked (3-2 BBFFBB)."></narrative>
+        </play>
+        <play seq="42" outs="0" batter="Ruffin" batprof="L" pitcher="Simpson" pchprof="R" first="Briones">
+          <batter name="Ruffin" action="FC" out="0" adv="1" tobase="1" ab="1" rchfc="1" gndout="1"></batter>
+          <runner base="1" name="Briones" action="64" out="1" adv="0" tobase="1"></runner>
+          <pitcher name="Simpson" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="KFBP" b="1" s="2"></pitches>
+          <fielder pos="2b" name="Lavrov" po="1"></fielder>
+          <fielder pos="ss" name="Real" a="1"></fielder>
+          <narrative text="Ruffin reached on a fielder's choice (1-2 KFB); Briones out at second ss to 2b."></narrative>
+        </play>
+        <play seq="43" outs="1" batter="Martinez" batprof="R" pitcher="Simpson" pchprof="R" first="Ruffin">
+          <batter name="Martinez" action="2B LC RBI" out="0" adv="2" tobase="2" ab="1" h="1" rbi="1" double="1" wherehit="7" wheredesc="left center"></batter>
+          <runner base="1" name="Ruffin" action="+++" out="0" adv="3" tobase="4" scored="1" por="Simpson"></runner>
+          <pitcher name="Simpson" bf="1" ab="1" h="1" r="1" er="1" double="1"></pitcher>
+          <pitches text="KSBBFFFP" b="2" s="2"></pitches>
+          <narrative text="Martinez doubled to left center, RBI (2-2 KSBBFFF); Ruffin scored."></narrative>
+        </play>
+        <play seq="44" outs="1" batter="Seip" batprof="L" pitcher="Simpson" pchprof="R" second="Martinez">
+          <batter name="Seip" action="3UA" out="1" adv="0" tobase="0" ab="1" gndout="1" wherehit="3"></batter>
+          <runner base="2" name="Martinez" action="+" out="0" adv="1" tobase="3"></runner>
+          <pitcher name="Simpson" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="BKBFBFP" b="3" s="2"></pitches>
+          <fielder pos="1b" name="Harrington" po="1"></fielder>
+          <narrative text="Seip grounded out to 1b unassisted (3-2 BKBFBF); Martinez advanced to third."></narrative>
+        </play>
+        <play seq="45" outs="2" batter="Olson" batprof="L" pitcher="Simpson" pchprof="R" third="Martinez">
+          <batter name="Olson" action="1B 1 RBI" out="0" adv="1" tobase="1" ab="1" h="1" rbi="1" wherehit="1" wheredesc="pitcher"></batter>
+          <runner base="3" name="Martinez" action="+" out="0" adv="1" tobase="4" scored="1" por="Simpson"></runner>
+          <pitcher name="Simpson" bf="1" ab="1" h="1" r="1" er="1"></pitcher>
+          <pitches text="KBKFBP" b="2" s="2"></pitches>
+          <narrative text="Olson singled to pitcher, RBI (2-2 KBKFB); Martinez scored."></narrative>
+        </play>
+        <play seq="46" outs="2" batter="Gonzalez" batprof="R" pitcher="Simpson" pchprof="R" first="Olson">
+          <batter name="Gonzalez" action="1B LS" out="0" adv="1" tobase="1" ab="1" h="1" wherehit="7" wheredesc="left side"></batter>
+          <runner base="1" name="Olson" action="+" out="0" adv="1" tobase="2"></runner>
+          <pitcher name="Simpson" bf="1" ab="1" h="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <narrative text="Gonzalez singled through the left side (0-0); Olson advanced to second."></narrative>
+        </play>
+        <play seq="47" outs="2" batter="Brookshire" batprof="R" pitcher="Simpson" pchprof="R" first="Gonzalez" second="Olson">
+          <batter name="Brookshire" action="BB" out="0" adv="1" tobase="1" bb="1"></batter>
+          <runner base="1" name="Gonzalez" action="+" out="0" adv="1" tobase="2"></runner>
+          <runner base="2" name="Olson" action="+" out="0" adv="1" tobase="3"></runner>
+          <pitcher name="Simpson" bf="1" bb="1"></pitcher>
+          <pitches text="BBFBB" b="4" s="1"></pitches>
+          <narrative text="Brookshire walked (3-1 BBFBB); Gonzalez advanced to second; Olson advanced to third."></narrative>
+        </play>
+        <play seq="48" outs="2" batter="Wise" batprof="L" pitcher="Simpson" pchprof="R" first="Brookshire" second="Gonzalez" third="Olson">
+          <batter name="Wise" action="3B 8 RBI3" out="0" adv="3" tobase="3" ab="1" h="1" rbi="3" triple="1" wherehit="8" wheredesc="center field"></batter>
+          <runner base="1" name="Brookshire" action="+++" out="0" adv="3" tobase="4" scored="1" por="Simpson"></runner>
+          <runner base="2" name="Gonzalez" action="++" out="0" adv="2" tobase="4" scored="1" por="Simpson"></runner>
+          <runner base="3" name="Olson" action="+" out="0" adv="1" tobase="4" scored="1" por="Simpson"></runner>
+          <pitcher name="Simpson" bf="1" ab="1" h="1" r="3" er="3" triple="1"></pitcher>
+          <pitches text="KP" b="0" s="1"></pitches>
+          <narrative text="Wise tripled to center field, 3 RBI (0-1 K); Brookshire scored; Gonzalez scored; Olson scored."></narrative>
+        </play>
+        <play seq="49" outs="2" batter="Salazar" batprof="R" pitcher="Simpson" pchprof="R" third="Wise">
+          <sub vh="V" spot="10" who="Thompson" for="Simpson" pos="p"></sub>
+          <narrative text="Thompson to p for Simpson."></narrative>
+        </play>
+        <play seq="50" outs="2" batter="Salazar" batprof="R" pitcher="Thompson" pchprof="L" third="Wise">
+          <batter name="Salazar" action="2B RC RBI" out="0" adv="2" tobase="2" ab="1" h="1" rbi="1" double="1" wherehit="9" wheredesc="right center"></batter>
+          <runner base="3" name="Wise" action="+" out="0" adv="1" tobase="4" scored="1" por="Simpson"></runner>
+          <pitcher name="Thompson" bf="1" ab="1" h="1" double="1"></pitcher>
+          <pitcher name="Simpson" r="1" er="1"></pitcher>
+          <pitches text="BKBFFP" b="2" s="2"></pitches>
+          <narrative text="Salazar doubled to right center, RBI (2-2 BKBFF); Wise scored."></narrative>
+        </play>
+        <play seq="51" outs="2" batter="Briones" batprof="R" pitcher="Thompson" pchprof="L" second="Salazar">
+          <batter name="Briones" action="2B 9 RBI" out="0" adv="2" tobase="2" ab="1" h="1" rbi="1" double="1" wherehit="9" wheredesc="right field"></batter>
+          <runner base="2" name="Salazar" action="++" out="0" adv="2" tobase="4" scored="1" por="Thompson"></runner>
+          <pitcher name="Thompson" bf="1" ab="1" h="1" r="1" er="1" double="1"></pitcher>
+          <pitches text="FP" b="0" s="1"></pitches>
+          <narrative text="Briones doubled to right field, RBI (0-1 F); Salazar scored."></narrative>
+        </play>
+        <play seq="52" outs="2" batter="Ruffin" batprof="L" pitcher="Thompson" pchprof="L" second="Briones">
+          <batter name="Ruffin" action="L5" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="5"></batter>
+          <pitcher name="Thompson" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="BSFFP" b="1" s="2"></pitches>
+          <fielder pos="3b" name="Aguirre" po="1"></fielder>
+          <narrative text="Ruffin lined out to 3b (1-2 BSFF)."></narrative>
+        </play>
+        <innsummary r="7" h="6" e="0" lob="1"></innsummary>
+      </batting>
+    </inning>
+    <inning number="4">
+      <batting vh="V" id="UCSD">
+        <play seq="53" outs="0" batter="Renner" batprof="L" pitcher="Quinlan" pchprof="L">
+          <sub vh="H" spot="3" who="Lawhorn" for="Gonzalez" pos="1b"></sub>
+          <narrative text="Lawhorn to 1b for Gonzalez."></narrative>
+        </play>
+        <play seq="54" outs="0" batter="Renner" batprof="L" pitcher="Quinlan" pchprof="L">
+          <sub vh="H" spot="4" who="Camou" for="Brookshire" pos="3b"></sub>
+          <narrative text="Camou to 3b for Brookshire."></narrative>
+        </play>
+        <play seq="55" outs="0" batter="Renner" batprof="L" pitcher="Quinlan" pchprof="L">
+          <batter name="Renner" action="KL" out="1" adv="0" tobase="0" ab="1" k="1" kl="1"></batter>
+          <pitcher name="Quinlan" bf="1" ip="1" ab="1" k="1" kl="1"></pitcher>
+          <pitches text="KFBFK" b="1" s="3"></pitches>
+          <fielder pos="c" name="Briones" po="1"></fielder>
+          <narrative text="Renner struck out looking (1-2 KFBFK)."></narrative>
+        </play>
+        <play seq="56" outs="1" batter="Bosinger" batprof="R" pitcher="Quinlan" pchprof="L">
+          <batter name="Bosinger" action="HBP" out="0" adv="1" tobase="1" hbp="1"></batter>
+          <pitcher name="Quinlan" bf="1" hbp="1"></pitcher>
+          <pitches text="BH" b="2" s="0"></pitches>
+          <narrative text="Bosinger hit by pitch (1-0 B)."></narrative>
+        </play>
+        <play seq="57" outs="1" batter="Real" batprof="R" pitcher="Quinlan" pchprof="L" first="Bosinger">
+          <batter name="Real" action="KL" out="1" adv="0" tobase="0" ab="1" k="1" kl="1"></batter>
+          <pitcher name="Quinlan" bf="1" ip="1" ab="1" k="1" kl="1"></pitcher>
+          <pitches text="KFBBBK" b="3" s="3"></pitches>
+          <fielder pos="c" name="Briones" po="1"></fielder>
+          <narrative text="Real struck out looking (3-2 KFBBBK)."></narrative>
+        </play>
+        <play seq="58" outs="2" batter="Harrington" batprof="R" pitcher="Quinlan" pchprof="L" first="Bosinger">
+          <batter name="Harrington" action="KS" out="1" adv="0" tobase="0" ab="1" k="1"></batter>
+          <pitcher name="Quinlan" bf="1" ip="1" ab="1" k="1"></pitcher>
+          <pitches text="KFFFS" b="0" s="3"></pitches>
+          <fielder pos="c" name="Briones" po="1"></fielder>
+          <narrative text="Harrington struck out swinging (0-2 KFFFS)."></narrative>
+        </play>
+        <innsummary r="0" h="0" e="0" lob="1"></innsummary>
+      </batting>
+      <batting vh="H" id="LBSU">
+        <play seq="59" outs="0" batter="Martinez" batprof="R" pitcher="Thompson" pchprof="L">
+          <sub vh="V" spot="2" who="Real" pos="2b"></sub>
+          <narrative text="Real to 2b."></narrative>
+        </play>
+        <play seq="60" outs="0" batter="Martinez" batprof="R" pitcher="Thompson" pchprof="L">
+          <sub vh="V" spot="5" who="Lavrov" pos="dp"></sub>
+          <narrative text="Lavrov to dp."></narrative>
+        </play>
+        <play seq="61" outs="0" batter="Martinez" batprof="R" pitcher="Thompson" pchprof="L">
+          <sub vh="V" spot="6" who="Kazakoff" pos="ss"></sub>
+          <narrative text="Kazakoff to ss."></narrative>
+        </play>
+        <play seq="62" outs="0" batter="Martinez" batprof="R" pitcher="Thompson" pchprof="L">
+          <sub vh="V" spot="7" who="Lane" for="Pancino" pos="rf"></sub>
+          <narrative text="Lane to rf for Pancino."></narrative>
+        </play>
+        <play seq="63" outs="0" batter="Martinez" batprof="R" pitcher="Thompson" pchprof="L">
+          <batter name="Martinez" action="L4" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="4"></batter>
+          <pitcher name="Thompson" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="P" b="0" s="0"></pitches>
+          <fielder pos="2b" name="Real" po="1"></fielder>
+          <narrative text="Martinez lined out to 2b (0-0)."></narrative>
+        </play>
+        <play seq="64" outs="1" batter="Seip" batprof="L" pitcher="Thompson" pchprof="L">
+          <batter name="Seip" action="FF3" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="3"></batter>
+          <pitcher name="Thompson" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="BP" b="1" s="0"></pitches>
+          <fielder pos="1b" name="Harrington" po="1"></fielder>
+          <narrative text="Seip fouled out to 1b (1-0 B)."></narrative>
+        </play>
+        <play seq="65" outs="2" batter="Olson" batprof="L" pitcher="Thompson" pchprof="L">
+          <sub vh="H" spot="2" who="Iliff" for="Olson" pos="ph"></sub>
+          <narrative text="Iliff pinch hit for Olson."></narrative>
+        </play>
+        <play seq="66" outs="2" batter="Iliff" batprof="R" pitcher="Thompson" pchprof="L">
+          <batter name="Iliff" action="F7" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="7"></batter>
+          <pitcher name="Thompson" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="KP" b="0" s="1"></pitches>
+          <fielder pos="lf" name="Bosinger" po="1"></fielder>
+          <narrative text="Iliff flied out to lf (0-1 K)."></narrative>
+        </play>
+        <innsummary r="0" h="0" e="0" lob="0"></innsummary>
+      </batting>
+    </inning>
+    <inning number="5">
+      <batting vh="V" id="UCSD">
+        <play seq="67" outs="0" batter="Aguirre" batprof="R" pitcher="Quinlan" pchprof="L">
+          <sub vh="H" spot="2" who="Iliff" pos="2b"></sub>
+          <narrative text="Iliff to 2b."></narrative>
+        </play>
+        <play seq="68" outs="0" batter="Aguirre" batprof="R" pitcher="Quinlan" pchprof="L">
+          <sub vh="H" spot="9" who="Martinez" pos="lf"></sub>
+          <narrative text="Martinez to lf."></narrative>
+        </play>
+        <play seq="69" outs="0" batter="Aguirre" batprof="R" pitcher="Quinlan" pchprof="L">
+          <sub vh="H" spot="10" who="Fowler" for="Quinlan" pos="p"></sub>
+          <narrative text="Fowler to p for Quinlan."></narrative>
+        </play>
+        <play seq="70" outs="0" batter="Aguirre" batprof="R" pitcher="Fowler" pchprof="R">
+          <batter name="Aguirre" action="P6" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="6"></batter>
+          <pitcher name="Fowler" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="BFBFP" b="2" s="2"></pitches>
+          <fielder pos="ss" name="Salazar" po="1"></fielder>
+          <narrative text="Aguirre popped up to ss (2-2 BFBF)."></narrative>
+        </play>
+        <play seq="71" outs="1" batter="Lavrov" batprof="R" pitcher="Fowler" pchprof="R">
+          <sub vh="V" spot="5" who="Tirado" for="Lavrov" pos="dp"></sub>
+          <narrative text="Tirado to dp for Lavrov."></narrative>
+        </play>
+        <play seq="72" outs="1" batter="Tirado" batprof="R" pitcher="Fowler" pchprof="R">
+          <batter name="Tirado" action="43" out="1" adv="0" tobase="0" ab="1" gndout="1" wherehit="4"></batter>
+          <pitcher name="Fowler" bf="1" ip="1" ab="1" gndout="1"></pitcher>
+          <pitches text="BSKBFFP" b="2" s="2"></pitches>
+          <fielder pos="1b" name="Lawhorn" po="1"></fielder>
+          <fielder pos="2b" name="Iliff" a="1"></fielder>
+          <narrative text="Tirado grounded out to 2b (2-2 BSKBFF)."></narrative>
+        </play>
+        <play seq="73" outs="2" batter="Kazakoff" batprof="L" pitcher="Fowler" pchprof="R">
+          <batter name="Kazakoff" action="BB" out="0" adv="1" tobase="1" bb="1"></batter>
+          <pitcher name="Fowler" bf="1" bb="1"></pitcher>
+          <pitches text="BFBBB" b="4" s="1"></pitches>
+          <narrative text="Kazakoff walked (3-1 BFBBB)."></narrative>
+        </play>
+        <play seq="74" outs="2" batter="Lane" batprof="R" pitcher="Fowler" pchprof="R" first="Kazakoff">
+          <batter name="Lane" action="FF4" out="1" adv="0" tobase="0" ab="1" flyout="1" wherehit="4"></batter>
+          <pitcher name="Fowler" bf="1" ip="1" ab="1" flyout="1"></pitcher>
+          <pitches text="KBP" b="1" s="1"></pitches>
+          <fielder pos="2b" name="Iliff" po="1"></fielder>
+          <narrative text="Lane fouled out to 2b (1-1 KB)."></narrative>
+        </play>
+        <innsummary r="0" h="0" e="0" lob="1"></innsummary>
+      </batting>
+    </inning>
+  </plays>
+  <status complete="Y"></status>
+</bsgame>
