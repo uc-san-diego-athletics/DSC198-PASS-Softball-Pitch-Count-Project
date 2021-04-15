@@ -1,9 +1,9 @@
 # DSC198-PASS-Softball-Pitch-Count-Project
 DSC198 Performance Analysis and Sports Science Softball Pitch Count Project
 
-# DSC198 PASS Soccer Project:
+# DSC198 PASS Softball Project:
 
-**Analyzing & Visualizing Key Plays with GPS Data**
+**Softball Pitch Count Analysis**
 
 ## Project Members
 
